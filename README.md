@@ -6,15 +6,6 @@ This document explains the core front-end interactivity provided by the JavaScri
 
 This feature is critical for Mobile-First Design, ensuring the primary navigation links are easily accessible on smaller screens.
 
-Element
-
-ID Used
-
-Description
-
-Menu Icon
-
-menu-icon
 
 The clickable icon (often a hamburger icon) that triggers the menu.
 
